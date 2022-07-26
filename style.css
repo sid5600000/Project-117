@@ -1,0 +1,38 @@
+body{
+    background-color: #fbd139;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 20px;
+    float: left;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+
+}
+
+#sketch_to_be_drawn{
+    color: red;
+
+}
+
+h1{
+    color:rgb(0, 4, 255);
+    background-color: cornsilk;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
